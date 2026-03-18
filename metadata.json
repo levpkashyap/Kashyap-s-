@@ -1,0 +1,5 @@
+{
+  "name": "VeriFact AI",
+  "description": "A professional fact-checking tool powered by Gemini and Google Search grounding to verify claims against authentic web sources.",
+  "requestFramePermissions": []
+}
